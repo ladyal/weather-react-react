@@ -7,6 +7,13 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <SearchEngine />
+
+      <h4>
+        <a href="https://github.com/ladyal/weather-react-react" target="_blank">
+          Open-source code
+        </a>
+        , by Allison Brackeen
+      </h4>
     </div>
   );
 }
